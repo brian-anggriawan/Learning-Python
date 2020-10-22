@@ -84,6 +84,41 @@
 
 
 
+#Latihan game tamagochi
+
+    # monster = {
+    #     'nama': 'haloo',
+    #     'power': 100
+    # }
+
+    # def eat():
+    #     monster['power'] += 100
+    #     print('Nyam...Nyam')
+
+    #     mainMenu()
+
+    # def status():
+    #     print(monster)
+    #     print('Cek...Cek')
+
+    #     mainMenu()
+
+    # def exit():
+    #     print('Bye...Bye')
+
+    # def mainMenu():
+    #     menu = input('1. Makan, 2. Cek Status, 3. Exit : ')
+
+    #     if menu == '1':
+    #         eat()
+    #     elif menu == '2':
+    #         status()
+    #     else:
+    #         exit()
+
+
+    # mainMenu()
+    
 
 
 
