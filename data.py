@@ -1,0 +1,1 @@
+nama = ['brian',' wahyu',' anggriawan']
